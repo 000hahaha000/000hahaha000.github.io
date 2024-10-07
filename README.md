@@ -1,2 +1,2 @@
-# WenSiXiuNote
-闻思修笔记
+# Read&Write&Life
+
